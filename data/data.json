@@ -1,0 +1,37 @@
+{
+    "albums" : [
+                {
+                    "albumLink" : "Stoney",
+                    "albumName" : "Stoney",
+                    "releaseDate" : "December 9, 2016",
+                    "summary" : "Stoney is the debut album from Post Malone, released on December 9, 2016. 'Congratulations' was the albums first promotional single, released on November 4, 2016, but Post Malone first breakout song that appeared on the album was 'White Iverson', released on August 14, 2015. It debuted at number 6 on the Billbard 200 and eventually peaked at number six.",
+                    "shortSummary" : "Stoney is the debut album from Post Malone, released on December 9, 2016. It debuted at number 6 on the Billbard 200 and eventually peaked at number six.",
+                    "trackList" : ["Broken Whisky Glass", "Big Lie", "Deja Vu", "No Option", "Cold", "White Iverson", "I Fall Apart", "Patient", "Go Flesx", "Feel", "Too Young", "Congratulations", "Up There", "Yours Truly, Austin Post"],
+                    "albumCover" : "stony-image.jpg",
+                    "spotify" : "https://open.spotify.com/album/2TbtBmA00IP0P1GpUqIaXS",
+                    "apple" : "https://music.apple.com/us/album/stoney-deluxe/1440887225"
+                }, 
+                {
+                    "albumLink" : "BeerBongs_&_Bentleys",
+                    "albumName" : "BeerBongs & Bentleys",
+                    "releaseDate" : "April 27, 2018",
+                    "summary" : "BeerBongs & Bentleys released on April 27, 2018 to mixed reviews from critics, but that did not stop it from debuting at number 1 on the Billboard 200. BeerBongs & Bentleys also broke the record for the most simulatious top 20 extries on the Billboard Hot 100 with nine songs in the top 20. The album was certified triple platinum and was nominated for album of the year at the 2019 Grammy Awards",
+                    "shortSummary" : "The Second Studio Album from Post Malone released on April 27, 2018. This album featured artists such as Swae Lee, 21 Savage, Ty Dolla Sign, Nicki Minaj, G-Easy, and YG",
+                    "trackList" : ["Paranoid", "Spoil My Night", "Rich & Sad", "Zack and Codeine", "Takin Shots", "Rockstar", "Over Now", "Psycho", "Better Now", "Ball for Me", "Otherside", "Stay", "Blame It on Me", "Same Bitches", "Jonestown", "92 Explorer", "Candy Paint", "Sugar Wraith"],
+                    "albumCover" : "beerbongs&bentleys.jpg",
+                    "spotify" : "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR",
+                    "apple" : "https://music.apple.com/us/album/beerbongs-bentleys/1373516902"
+                },
+                {
+                    "albumLink" : "hollywoods_bleeding",
+                    "albumName" : "Hollywood's Bleeding",
+                    "releaseDate" : "September 6, 2010",
+                    "summary" : "Only six weeks after the release of BeerBongs and Bentleys it was reported that Malone was already working on a third album. The third studio album from Post Malone, released on September 6, 2019, received mostly postive reviews and topped the Billboard 200 at number 1. The album was the second-biggest first week sales of 2019 and had the most first-week streams.",
+                    "shortSummary" : "The third studio album from Post Malone, released on September 6, 2019, received mostly postive reviews and topped the Billboard 200 at number 1. Hollywood's Bleeding featured artists such as DaBaby, Future, Halsey, Meek Mill and more.",
+                    "trackList" : ["Hollywood's Bleeding", "Saint-Tropez", "Enemies", "Allergic", "A Thousand Bad Times", "Circles", "Die For Me", "On The Road", "Take What You Want", "I'm Gonna Be", "Staring At The Sun", "Sunflower", "Internet", "Goodbyes", "Myself", "I Know", "Wow."],
+                    "albumCover" : "hollywoods-bleeding.jpg",
+                    "spotify" : "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi",
+                    "apple" : "https://music.apple.com/us/album/hollywoods-bleeding/1477880265"
+                }
+            ]
+}

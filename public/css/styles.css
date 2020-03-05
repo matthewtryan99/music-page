@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.nav-yellow{
+    background-color: yellow;
+}
+
+.image{
+    background-color: #acaa40;
+    border-bottom: solid black 2px;
+}
+
+.info{
+    margin-top: 50px;
+
+}
+
+.font-white{
+    color: white;
+    font-size: 25px;
+}
+
+.pixgrid {
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .pixgrid img {
+    display: block;
+    padding: 5px;
+    float: left;
+    width: 33.33%;
+    border-radius: 10px;
+  }
+
+.post-image{
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+}
+
+.top-margin{
+    min-height: 100px;
+}
+
+.album-covers{
+    border-radius: 20px;
+}
+
+.font-white{
+    color: white;
+    font-size: 25px;
+}
+
+.font-gray{
+    color: rgb(194, 194, 194);
+    font-size: 25px;
+}
